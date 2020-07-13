@@ -13,7 +13,7 @@
                 - Only makes sense once we get listed on an exchange, as it should be paid in MAD Tokens
             - $500 - $1500 per Giveaway (Bi-Monthly) 36000
     - Swag - $3,000
-        - $8,000 - $10,000
+        - $3,000 - $10,000
         - Will be needed more once travel and outside events are allowed again. For now just for Ambassadors, Influencers, and internal AMAs. (Has to be of high quality)
     - Events - NA
         - Conferences
