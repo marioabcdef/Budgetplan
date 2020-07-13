@@ -57,4 +57,4 @@
         - $0,03 - $0,05 per word
         - Once we identify other key markets beside English we can start thinking about this role.
         
-- **Total** Suggested Budget $115,000
+- **Total** Suggested Annual Budget $115,000
