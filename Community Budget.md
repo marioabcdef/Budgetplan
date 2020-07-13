@@ -17,11 +17,11 @@
         - Will be needed more once travel and outside events are allowed again. For now just for Ambassadors, Influencers, and internal AMAs. (Has to be of high quality)
     - Events - NA
         - Conferences
-            - $1,000 - $20,000
+            - $1,000 - $20,000 per event
         - Meetups
-            - $1,000 - $3,000
+            - $1,000 - $3,000 per event
         - Hackathons
-            - $20,000 - $40,000 
+            - $20,000 - $40,000 per event
     - Influencers - $50,000
         - $60,000 - $120,000 
             - 10-15 Influencers
