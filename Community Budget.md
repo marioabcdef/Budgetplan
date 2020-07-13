@@ -10,7 +10,7 @@
         - AMAs, Trading Competitions, Giveaways, etc.
             - $300 - $500 per AMA (Monthly) 6000
             - $5,000 - $20,000 per Trading Competition (Quarterly or after each listing) 80000
-                - Only makes sense once we get listed on an exchange, as it should be paid in MAD Tokens
+                - Only makes sense once we get listed on an exchange, as it should be paid in our Tokens
             - $500 - $1500 per Giveaway (Bi-Monthly) 36000
     - Swag - $3,000
         - Total $3,000 - $10,000
@@ -47,7 +47,7 @@
             - $250-$500 each per month
         - These guys will help with Community Moderation and Brand Awareness. Depending on the popularity of the project, might not even need compensation.
     - Designer / Video Animator - FREE
-        - Ideally someone at MadHive can fill this spot, as it will involve smaller tasks that shouldn't take much time out of someones working schedule.
+        - Ideally someone internally can fill this spot, as it will involve smaller tasks that shouldn't take much time out of someones working schedule.
     - Content Writer - $3000
         - $2,000 - $5,000
         - If we want to ramp up our content efforts, we need a dedicated writer. He should write Blog posts, AMA scripts, Project Updates, etc. 
