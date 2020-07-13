@@ -1,0 +1,59 @@
+- **Marketing**
+    - Total:: $110,000 - $300,000 (excl. Events for now)
+    - Community Activities - $50,000
+        - Internal (Twitter, Telegram, any platform we own)
+        - $15,000 - $45,000
+        - Reoccurring Giveaways, Spontaneous Activities, UGC Competitions, etc.
+            - External Communities will give us more leverage at this point
+        - External (Exchanges, Influencers and other communities)
+        - $35,000 - $122,000
+        - AMAs, Trading Competitions, Giveaways, etc.
+            - $300 - $500 per AMA (Monthly) 6000
+            - $5,000 - $20,000 per Trading Competition (Quarterly or after each listing) 80000
+                - Only makes sense once we get listed on an exchange, as it should be paid in MAD Tokens
+            - $500 - $1500 per Giveaway (Bi-Monthly) 36000
+    - Swag - $3,000
+        - $8,000 - $10,000
+        - Will be needed more once travel and outside events are allowed again. For now just for Ambassadors, Influencers, and internal AMAs. (Has to be of high quality)
+    - Events - NA
+        - Conferences
+            - $1,000 - $20,000
+        - Meetups
+            - $1,000 - $3,000
+        - Hackathons
+            - $20,000 - $40,000 
+    - Influencers - $50,000
+        - $60,000 - $120,000 
+            - 10-15 Influencers
+            - $500 - $3,000 each per month/video
+- **Tools**
+    - Total:: $3,000 - $10,000
+    - Social Media & Community Management - $420
+        - Combot (Telegram bot)
+            - $10 per month
+        - Hootsuite (or similar)
+            - $25 - $100 per month 
+    - Community Activities - $100
+        - Gleam
+            - $100 - $400 per month  
+    - Media & Social Monitoring - $400
+        - Meltwater (or similar)
+            - $115 - $400 per month 
+- **Manpower**
+    - Total:: $11,000 - $25,000 (excl. Translator for now)
+    - Ambassadors - $9000
+        - $9,000 - $20,000
+            - 2-4 Ambassadors
+            - $250-$500 each per month
+        - These guys will help with Community Moderation and Brand Awareness. Depending on the popularity of the project, might not even need compensation.
+    - Designer / Video Animator - FREE
+        - Ideally someone at MadHive can fill this spot, as it will involve smaller tasks that shouldn't take much time out of someones working schedule.
+    - Content Writer - $3000
+        - $2,000 - $5,000
+        - If we want to ramp up our content efforts, we need a dedicated writer. He should write Blog posts, AMA scripts, Project Updates, etc. 
+        - $0,05 - $0,10 per word (2-3 Articles a month, each around 600-800 words)
+    - Translator - NA
+        - Translation of Marketing materials, products and content. 
+        - $0,03 - $0,05 per word
+        - Once we identify other key markets beside English we can start thinking about this role.
+- **Total** $115,920
